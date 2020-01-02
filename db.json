@@ -269,6 +269,7 @@
 			}
 		]
     },
+    "finance":{
     "margin": {
         "number": "+6%",
         "numberLy": "+7%"
@@ -280,7 +281,8 @@
     "RetOnSale": {
         "number": "-2%",
         "numberLy": "+1%"
-    },
+    }
+},
 	"profile": {
 		"name": "typicode"
 	}
