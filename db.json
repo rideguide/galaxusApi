@@ -271,14 +271,14 @@
     },
     "margin": {
         "number": "+6%",
-        "numberLy": "+1%"
+        "numberLy": "+7%"
     },
     "netMargin": {
-        "number": "+6%",
-        "numberLy": "+1%"
+        "number": "+4%",
+        "numberLy": "-7%"
     },
     "RetOnSale": {
-        "number": "+6%",
+        "number": "-2%",
         "numberLy": "+1%"
     },
 	"profile": {
