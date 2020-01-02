@@ -268,7 +268,19 @@
 				"value": 100000
 			}
 		]
-	},
+    },
+    "margin": {
+        "number": "+6%",
+        "numberLy": "+1%"
+    },
+    "netMargin": {
+        "number": "+6%",
+        "numberLy": "+1%"
+    },
+    "RetOnSale": {
+        "number": "+6%",
+        "numberLy": "+1%"
+    },
 	"profile": {
 		"name": "typicode"
 	}
