@@ -1,289 +1,298 @@
 {
-	"categories": [{
-			"id": 0,
-			"name": "Haushalt",
-			"margin": "15%",
-			"percentLy": "+10%"
-		},
-		{
-			"id": 1,
-			"name": "Do It + Garten",
-			"margin": "14%",
-			"percentLy": "+5%"
-		},
-		{
-			"id": 2,
-			"name": "Sport",
-			"margin": "13%",
-			"percentLy": "+3%"
-		},
-		{
-			"id": 3,
-			"name": "Fashion",
-			"margin": "12%",
-			"percentLy": "+5%"
-		},
-		{
-			"id": 4,
-			"name": "Spielzeug",
-			"margin": "11%",
-			"percentLy": "+8%"
-		},
-		{
-			"id": 5,
-			"name": "Tierbedarf",
-			"margin": "10%",
-			"percentLy": "+6%"
-		},
-		{
-			"id": 6,
-			"name": "Baby + Eltern",
-			"margin": "4%",
-			"percentLy": "+8%"
-		},
-		{
-			"id": 7,
-			"name": "Beaty + Gesundheit",
-			"margin": "3%",
-			"percentLy": "+4%"
-		},
-		{
-			"id": 8,
-			"name": "Erotik",
-			"margin": "3%",
-			"percentLy": "+4%"
-		},
-		{
-			"id": 9,
-			"name": "Uhren + Schmuck",
-			"margin": "3%",
-			"percentLy": "+3%"
-		},
-		{
-			"id": 10,
-			"name": "Büro",
-			"margin": "3%",
-			"percentLy": "+3%"
-		},
-		{
-			"id": 11,
-			"name": "Digital",
-			"margin": "3%",
-			"percentLy": "+0%"
-		},
-		{
-			"id": 12,
-			"name": "Medien",
-			"margin": "3%",
-			"percentLy": "-2%"
-		},
-		{
-			"id": 13,
-			"name": "Wohnen",
-			"margin": "3%",
-			"percentLy": "-5%"
-		}
-	],
-	"visits": {
-		"2017": [{
-				"id": 1,
-				"title": "January",
-				"value": 2
-			},
-			{
-				"id": 2,
-				"title": "February",
-				"value": 30000
-			},
-			{
-				"id": 3,
-				"title": "March",
-				"value": 40000
-			},
-			{
-				"id": 4,
-				"title": "April",
-				"value": 40000
-			},
-			{
-				"id": 5,
-				"title": "May",
-				"value": 50000
-			},
-			{
-				"id": 6,
-				"title": "June",
-				"value": 60000
-			},
-			{
-				"id": 7,
-				"title": "July",
-				"value": 20000
-			},
-			{
-				"id": 8,
-				"title": "August",
-				"value": 70000
-			},
-			{
-				"id": 9,
-				"title": "September",
-				"value": 70000
-			},
-			{
-				"id": 10,
-				"title": "October",
-				"value": 80000
-			},
-			{
-				"id": 11,
-				"title": "November",
-				"value": 90000
-			},
-			{
-				"id": 12,
-				"title": "December",
-				"value": 100000
-			}
-		],
-		"2018": [{
-				"id": 1,
-				"title": "January",
-				"value": 3
-			},
-			{
-				"id": 2,
-				"title": "February",
-				"value": 30000
-			},
-			{
-				"id": 3,
-				"title": "March",
-				"value": 40000
-			},
-			{
-				"id": 4,
-				"title": "April",
-				"value": 40000
-			},
-			{
-				"id": 5,
-				"title": "May",
-				"value": 50000
-			},
-			{
-				"id": 6,
-				"title": "June",
-				"value": 60000
-			},
-			{
-				"id": 7,
-				"title": "July",
-				"value": 20000
-			},
-			{
-				"id": 8,
-				"title": "August",
-				"value": 70000
-			},
-			{
-				"id": 9,
-				"title": "September",
-				"value": 70000
-			},
-			{
-				"id": 10,
-				"title": "October",
-				"value": 80000
-			},
-			{
-				"id": 11,
-				"title": "November",
-				"value": 90000
-			},
-			{
-				"id": 12,
-				"title": "December",
-				"value": 100000
-			}
-		],
-		"2019": [{
-				"id": 1,
-				"title": "January",
-				"value": 4
-			},
-			{
-				"id": 2,
-				"title": "February",
-				"value": 30000
-			},
-			{
-				"id": 3,
-				"title": "March",
-				"value": 40000
-			},
-			{
-				"id": 4,
-				"title": "April",
-				"value": 40000
-			},
-			{
-				"id": 5,
-				"title": "May",
-				"value": 50000
-			},
-			{
-				"id": 6,
-				"title": "June",
-				"value": 60000
-			},
-			{
-				"id": 7,
-				"title": "July",
-				"value": 20000
-			},
-			{
-				"id": 8,
-				"title": "August",
-				"value": 70000
-			},
-			{
-				"id": 9,
-				"title": "September",
-				"value": 70000
-			},
-			{
-				"id": 10,
-				"title": "October",
-				"value": 80000
-			},
-			{
-				"id": 11,
-				"title": "November",
-				"value": 90000
-			},
-			{
-				"id": 12,
-				"title": "December",
-				"value": 100000
-			}
-		]
+    "categories": [
+        {
+            "id": 0,
+            "name": "Haushalt",
+            "margin": "15%",
+            "percentLy": "+10%"
+        },
+        {
+            "id": 1,
+            "name": "Do It + Garten",
+            "margin": "14%",
+            "percentLy": "+5%"
+        },
+        {
+            "id": 2,
+            "name": "Sport",
+            "margin": "13%",
+            "percentLy": "+3%"
+        },
+        {
+            "id": 3,
+            "name": "Fashion",
+            "margin": "12%",
+            "percentLy": "+5%"
+        },
+        {
+            "id": 4,
+            "name": "Spielzeug",
+            "margin": "11%",
+            "percentLy": "+8%"
+        },
+        {
+            "id": 5,
+            "name": "Tierbedarf",
+            "margin": "10%",
+            "percentLy": "+6%"
+        },
+        {
+            "id": 6,
+            "name": "Baby + Eltern",
+            "margin": "4%",
+            "percentLy": "+8%"
+        },
+        {
+            "id": 7,
+            "name": "Beaty + Gesundheit",
+            "margin": "3%",
+            "percentLy": "+4%"
+        },
+        {
+            "id": 8,
+            "name": "Erotik",
+            "margin": "3%",
+            "percentLy": "+4%"
+        },
+        {
+            "id": 9,
+            "name": "Uhren + Schmuck",
+            "margin": "3%",
+            "percentLy": "+3%"
+        },
+        {
+            "id": 10,
+            "name": "Büro",
+            "margin": "3%",
+            "percentLy": "+3%"
+        },
+        {
+            "id": 11,
+            "name": "Digital",
+            "margin": "3%",
+            "percentLy": "+0%"
+        },
+        {
+            "id": 12,
+            "name": "Medien",
+            "margin": "3%",
+            "percentLy": "-2%"
+        },
+        {
+            "id": 13,
+            "name": "Wohnen",
+            "margin": "3%",
+            "percentLy": "-5%"
+        }
+    ],
+    "visits": {
+        "2017": [
+            {
+                "id": 1,
+                "title": "January",
+                "value": 2
+            },
+            {
+                "id": 2,
+                "title": "February",
+                "value": 30000
+            },
+            {
+                "id": 3,
+                "title": "March",
+                "value": 40000
+            },
+            {
+                "id": 4,
+                "title": "April",
+                "value": 40000
+            },
+            {
+                "id": 5,
+                "title": "May",
+                "value": 50000
+            },
+            {
+                "id": 6,
+                "title": "June",
+                "value": 60000
+            },
+            {
+                "id": 7,
+                "title": "July",
+                "value": 20000
+            },
+            {
+                "id": 8,
+                "title": "August",
+                "value": 70000
+            },
+            {
+                "id": 9,
+                "title": "September",
+                "value": 70000
+            },
+            {
+                "id": 10,
+                "title": "October",
+                "value": 80000
+            },
+            {
+                "id": 11,
+                "title": "November",
+                "value": 90000
+            },
+            {
+                "id": 12,
+                "title": "December",
+                "value": 100000
+            }
+        ],
+        "2018": [
+            {
+                "id": 1,
+                "title": "January",
+                "value": 3
+            },
+            {
+                "id": 2,
+                "title": "February",
+                "value": 30000
+            },
+            {
+                "id": 3,
+                "title": "March",
+                "value": 40000
+            },
+            {
+                "id": 4,
+                "title": "April",
+                "value": 40000
+            },
+            {
+                "id": 5,
+                "title": "May",
+                "value": 50000
+            },
+            {
+                "id": 6,
+                "title": "June",
+                "value": 60000
+            },
+            {
+                "id": 7,
+                "title": "July",
+                "value": 20000
+            },
+            {
+                "id": 8,
+                "title": "August",
+                "value": 70000
+            },
+            {
+                "id": 9,
+                "title": "September",
+                "value": 70000
+            },
+            {
+                "id": 10,
+                "title": "October",
+                "value": 80000
+            },
+            {
+                "id": 11,
+                "title": "November",
+                "value": 90000
+            },
+            {
+                "id": 12,
+                "title": "December",
+                "value": 100000
+            }
+        ],
+        "2019": [
+            {
+                "id": 1,
+                "title": "January",
+                "value": 4
+            },
+            {
+                "id": 2,
+                "title": "February",
+                "value": 30000
+            },
+            {
+                "id": 3,
+                "title": "March",
+                "value": 40000
+            },
+            {
+                "id": 4,
+                "title": "April",
+                "value": 40000
+            },
+            {
+                "id": 5,
+                "title": "May",
+                "value": 50000
+            },
+            {
+                "id": 6,
+                "title": "June",
+                "value": 60000
+            },
+            {
+                "id": 7,
+                "title": "July",
+                "value": 20000
+            },
+            {
+                "id": 8,
+                "title": "August",
+                "value": 70000
+            },
+            {
+                "id": 9,
+                "title": "September",
+                "value": 70000
+            },
+            {
+                "id": 10,
+                "title": "October",
+                "value": 80000
+            },
+            {
+                "id": 11,
+                "title": "November",
+                "value": 90000
+            },
+            {
+                "id": 12,
+                "title": "December",
+                "value": 100000
+            }
+        ]
     },
-    "finance":{
-    "margin": {
+    "finance": [{
+        "id": "margin",
         "number": "+6%",
         "numberLy": "+7%"
     },
-    "netMargin": {
+
+    {
+        "id": "netMargin",
         "number": "+4%",
         "numberLy": "-7%"
     },
-    "RetOnSale": {
+
+    {
+        "id": "RetOnSale",
         "number": "-2%",
         "numberLy": "+1%"
     }
-},
-	"profile": {
-		"name": "typicode"
-	}
+
+],
+    "profile": {
+        "name": "typicode"
+    }
 }
