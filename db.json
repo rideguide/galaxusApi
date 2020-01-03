@@ -292,6 +292,31 @@
     }
 
 ],
+"chart": [{
+    "id": "visitsCheckouts",
+    "datasets": [
+        {
+            "set" : [60.8,39.2, 0,0]
+        },
+        {
+            "set" : [0,0, 40.4, 20.6]
+        }
+    ]
+},
+
+{
+    "id": "netMargin",
+    "number": "+4%",
+    "numberLy": "-7%"
+},
+
+{
+    "id": "RetOnSale",
+    "number": "-2%",
+    "numberLy": "+1%"
+}
+
+],
     "profile": {
         "name": "typicode"
     }
